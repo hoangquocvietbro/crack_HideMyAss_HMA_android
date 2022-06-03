@@ -1,0 +1,15 @@
+﻿<Window x:Class="ADB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ADB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="233.715" Width="336.849">
+    <StackPanel Margin="0,0,2,0">
+        <Button Click="Button_Click" Background="Green" Height="43">Start</Button>
+        <Button Click="Button_Click_1" Background="red" Height="49">Stop</Button>
+        <Label Content="list devices:"/>
+        <TextBox x:Name="txtDevices" Height="23" TextWrapping="Wrap" Text="TextBox"/>
+    </StackPanel>
+</Window>

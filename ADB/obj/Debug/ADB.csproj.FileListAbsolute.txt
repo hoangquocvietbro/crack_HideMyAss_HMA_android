@@ -1,0 +1,39 @@
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\bin\Debug\KAutoHelper.dll
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\ADB.csprojAssemblyReference.cache
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\MainWindow.g.cs
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\App.g.cs
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\MainWindow.baml
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\ADB.Properties.Resources.resources
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\ADB.csproj.GenerateResource.cache
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\ADB.csproj.CoreCompileInputs.cache
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\ADB.csproj.CopyComplete
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\bin\Debug\ADB_Demo.exe.config
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\bin\Debug\ADB_Demo.exe
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\bin\Debug\ADB_Demo.pdb
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\ADB_Demo_MarkupCompile.cache
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\ADB_Demo_MarkupCompile.lref
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\ADB_Demo.g.resources
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\ADB_Demo.exe
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\obj\Debug\ADB_Demo.pdb
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\bin\Debug\Emgu.CV.World.dll
+E:\Work server\Team\Video hướng dẫn\Auto C#\Auto Android với ADB\Project\Project\ADB\ADB\bin\Debug\Emgu.CV.World.xml
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\bin\Debug\ADB_Demo.exe.config
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\bin\Debug\ADB_Demo.exe
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\bin\Debug\ADB_Demo.pdb
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\bin\Debug\Emgu.CV.World.dll
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\bin\Debug\Emgu.CV.World.xml
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\ADB.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\App.g.cs
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\ADB_Demo_MarkupCompile.cache
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\ADB_Demo_MarkupCompile.lref
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\ADB_Demo.g.resources
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\ADB.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\ADB.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\ADB.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\ADB.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\ADB_Demo.exe
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\obj\Debug\ADB_Demo.pdb
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\bin\Debug\KAutoHelper.pdb
+C:\Users\Lenovo\Downloads\ADB-20220602T084742Z-001\ADB\ADB\bin\Debug\KAutoHelper.dll.config
